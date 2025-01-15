@@ -1,21 +1,35 @@
-# 💫 About Me:
-**Dhruv Sridhar**  <br>📍 Brooklyn, New York  <br>🎓 MS in Computer Engineering, NYU Tandon | BTech in Electronics and Communication, Reva University  <br>🔗 [Personal Website](https://ds28-ops.github.io/)<br><br>👨‍💻 **Software Engineer | Data Scientist | ML Research Specialist**  <br>As a passionate technologist with a knack for solving complex problems using data, I have extensive experience in machine learning, data science, and software development. My academic background and professional experience have equipped me with a profound understanding of various tools and technologies including Python, Java, PyTorch, TensorFlow, SQL, AWS, Spark, and Hadoop.<br><br>🔬 **Current Work**  <br>- **AI for Scientific Research, NYU**: Working under Prof. Alec Marantz and Prof. Sergey Samsonau, I am developing models to predict brain signals from text data, focusing on morphemes and perplexity.<br>- **Projects**: Implementing large-scale data analytics for personalized movie recommendations using Spark and Hadoop; conducting comparative analysis of social media moderation policies using NLP; and improving neural network architectures for high accuracy in image classification.<br><br>💼 **Professional Experience**  <br>- **Bosch Global Software Technologies**: Developed machine learning models to enhance logistic operations and sales forecasting, significantly cutting costs and improving predictive accuracy.<br>- **NYU Wireless**: Managed and coordinated logistics for the Brooklyn 6G Summit, contributing to a successful international event.<br><br>🏅 **Certifications**  <br>- Complete Data Science Bootcamp, SQL Programming, Fintech Masterclass<br><br>📚 **Interested in**  <br>- Advancing machine learning techniques for real-world applications, data analytics for business intelligence, and developing scalable software solutions.<br><br>Feel free to explore my projects and reach out for collaborations or opportunities.  
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruv-sr/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ds28-ops&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ds28-ops&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ds28-ops&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Here is the updated "About Me" section based on your resume:
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ds28-ops&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me:
+**Dhruv Sridhar**  
+📍 Brooklyn, New York | 📧 ds7395@nyu.edu | 📱 (240) 659-9951  
+🎓 **MS in Computer Engineering**, NYU Tandon (GPA: 3.8) | **BTech in Electronics and Communication**, Reva University (GPA: 3.65)  
+🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-sr/) | [Publication](https://doi.org/10.1109/ICCCMLA56841.2022.9989127) | [Personal Website](https://ds28-ops.github.io/)
+
+👨‍💻 **Software Engineer | Data Scientist | ML Research Specialist**  
+With a robust foundation in machine learning, big data, and software development, I thrive on solving complex challenges using innovative technologies. My expertise spans tools such as Python, TensorFlow, PyTorch, Spark, Hadoop, SQL, and cloud platforms like AWS and GCP.
+
+🔬 **Current Work**  
+- **Research Assistant at NYU**: Optimizing LLAMA-2/LLAMA-3 fine-tuning with multi-GPU training, custom loss functions, and RLHF techniques. Achieved 40% reduction in training time and improved generalization across news reporting styles.  
+- **ML Research Specialist**: Collaborating with Prof. Alec Marantz to predict brain signals using NLP techniques, achieving 70% accuracy in linking morphemes and perplexity to MRI data.  
+
+💼 **Professional Experience**  
+- **Bosch Global Software Technologies**: Enhanced logistics and sales forecasting using predictive models (accuracy: 82.5%) and developed a state machine model that saved over $1M in costs.  
+- **Event Coordination at NYU Wireless**: Supported logistics for the Brooklyn 6G Summit, ensuring seamless execution of an international event.
+
+🏗️ **Projects**  
+- **Cricket Data Analytics using Langchain & LLAMA-3**: Built an interactive RAG system for IPL strategic planning with a 25% improvement in data retrieval accuracy.  
+- **Personalized Movie Recommendations**: Designed a Spark-based system with a 90% accuracy rate using ALS methods for predictive analytics.  
+- **Autonomous Car with Nvidia Jetson Nano**: Led a team to develop an autonomous driving model, achieving 92% efficiency, and published results at ICCMLA 2022.
+
+🏅 **Certifications**  
+- AWS Machine Learning Specialization, Fintech Masterclass, SQL Programming, Data Science Bootcamp  
+
+📚 **Interests**  
+- Pioneering AI applications in real-world challenges, enhancing business intelligence through data analytics, and building scalable, impactful solutions.
+
+Feel free to explore my projects and connect for collaborations or opportunities!
+
+---
