@@ -1,35 +1,65 @@
-
-
----
-
 # 💫 About Me:
 **Dhruv Sridhar**  
-📍 Brooklyn, New York | 📧 ds7395@nyu.edu | 📱 (240) 659-9951  
-🎓 **MS in Computer Engineering**, NYU Tandon (GPA: 3.8) | **BTech in Electronics and Communication**, Reva University (GPA: 3.65)  
+📍 Lakeville, Minnesota | 📧 ds7395@nyu.edu | 📱 (240) 659-9951  
+🎓 **MS in Computer Engineering**, NYU Tandon (GPA: 3.8/4.0) | **BTech in Electronics and Communication**, Reva University (GPA: 3.65/4.0)  
 🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-sr/) | [Publication](https://doi.org/10.1109/ICCCMLA56841.2022.9989127) | [Personal Website](https://ds28-ops.github.io/)
 
-👨‍💻 **Software Engineer | Data Scientist | ML Research Specialist**  
-With a robust foundation in machine learning, big data, and software development, I thrive on solving complex challenges using innovative technologies. My expertise spans tools such as Python, TensorFlow, PyTorch, Spark, Hadoop, SQL, and cloud platforms like AWS and GCP.
+## 👨‍💻 Software Engineer | ML Research Scientist | LLM Specialist
 
-🔬 **Current Work**  
-- **Research Assistant at NYU**: Optimizing LLAMA-2/LLAMA-3 fine-tuning with multi-GPU training, custom loss functions, and RLHF techniques. Achieved 40% reduction in training time and improved generalization across news reporting styles.  
-- **ML Research Specialist**: Collaborating with Prof. Alec Marantz to predict brain signals using NLP techniques, achieving 70% accuracy in linking morphemes and perplexity to MRI data.  
+Machine Learning researcher and engineer specializing in **Large Language Model optimization**, **production ML systems**, and **scalable AI infrastructure**. Passionate about building enterprise-grade AI solutions that bridge cutting-edge research with real-world deployment.
 
-💼 **Professional Experience**  
-- **Bosch Global Software Technologies**: Enhanced logistics and sales forecasting using predictive models (accuracy: 82.5%) and developed a state machine model that saved over $1M in costs.  
-- **Event Coordination at NYU Wireless**: Supported logistics for the Brooklyn 6G Summit, ensuring seamless execution of an international event.
+### 🔬 Current Research & Work
+**Research Scientist - Language Model Optimization @ NYU** (May 2024 - Present)
+- Fine-tuning **LLaMA 2/3, Qwen, and GPT-style models** for causal extraction with **25% improvement** in cosine similarity
+- Implementing **RLHF (GRPO)** achieving **12% F1 score boost** on evaluation benchmarks
+- Deploying production models on **GCP (Kubernetes, Docker, MLflow)** serving **10K+ daily queries** at <200ms latency
+- Building data pipelines processing **5K+ human-annotated samples** with **15% quality improvement**
 
-🏗️ **Projects**  
-- **Cricket Data Analytics using Langchain & LLAMA-3**: Built an interactive RAG system for IPL strategic planning with a 25% improvement in data retrieval accuracy.  
-- **Personalized Movie Recommendations**: Designed a Spark-based system with a 90% accuracy rate using ALS methods for predictive analytics.  
-- **Autonomous Car with Nvidia Jetson Nano**: Led a team to develop an autonomous driving model, achieving 92% efficiency, and published results at ICCMLA 2022.
+**ML Research Specialist - AI for Scientific Research** (Jan 2024 - Aug 2024)
+- Fine-tuned biomedical transformers (**BERT, BioBERT**) for patient risk stratification with **15% accuracy improvement**
+- Collaborated with clinical stakeholders to drive data-driven healthcare solutions
 
-🏅 **Certifications**  
-- AWS Machine Learning Specialization, Fintech Masterclass, SQL Programming, Data Science Bootcamp  
+### 💼 Professional Highlights
+**Project Trainee Intern @ Bosch Global Software Technologies** (Sep 2022 - May 2023)
+- Automated ECU testing for electric vehicles, reducing manual setup time by **40%**
+- Delivered cost-saving recommendations totaling **$1M+** in logistics optimization
+- Standardized testing procedures across 5 engineering teams, cutting cycle time by **15%**
 
-📚 **Interests**  
-- Pioneering AI applications in real-world challenges, enhancing business intelligence through data analytics, and building scalable, impactful solutions.
+### 🚀 Featured Projects
 
-Feel free to explore my projects and connect for collaborations or opportunities!
+**Fashion Recommendation Agent** | *Langchain, OpenAI, FAISS, Streamlit*
+- Production AI recommendation system with semantic search across **44K+ items** (sub-second latency)
+- Integrated **GPT-4o** for conversational shopping with real-time product recommendations
 
----
+**Loan Default Risk Assessment** | *MLflow, Prometheus, Grafana, Airflow*
+- Deployed **XGBoost** models with **40% latency reduction** through model compression
+- Automated ML deployment with **CI/CD pipelines**, cutting deployment time by **60%**
+
+**RAG for IPL Cricket Stats** | *Langchain, AWS, Databricks, Apache Spark*
+- Built RAG system achieving **95% accuracy** in structured data extraction
+- Processed **20+ years** of cricket data using distributed Spark pipelines on Databricks
+
+### 🛠️ Technical Stack
+
+**ML & AI**: PyTorch, TensorFlow, Huggingface, Langchain, DeepSpeed, PEFT/LoRA, ONNX, MLflow  
+**LLM Expertise**: Fine-tuning (LLaMA 2/3, Qwen), RLHF (GRPO/DPO), Prompt Engineering, RAG Systems  
+**Data Engineering**: Apache Spark, Hadoop, Databricks, SQL, ETL Pipelines  
+**DevOps & Cloud**: Docker, Kubernetes, Jenkins, GitHub Actions, Ansible, AWS, GCP  
+**Languages**: Python, Java, C++, Bash
+
+### 🏅 Certifications
+- **AWS Certified Cloud Practitioner**
+- Complete Data Science Bootcamp
+- Statistics for Data Science
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ds28-ops&show_icons=true&theme=radical)
+
+### 📫 Let's Connect!
+I'm always interested in collaborating on:
+- 🤖 LLM fine-tuning and optimization projects
+- 🏗️ Production ML infrastructure and MLOps
+- 📊 Large-scale data engineering challenges
+- 🔬 AI research applications in healthcare and scientific domains
+
+Feel free to reach out for collaborations, research opportunities, or just to chat about AI/ML!
