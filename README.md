@@ -2,8 +2,7 @@
 **Dhruv Sridhar**  
 📍 New York, New York | 📧 ds7395@nyu.edu | 📱 (240) 659-9951  
 🎓 **MS in Computer Engineering**, NYU Tandon (GPA: 3.8/4.0) | **BTech in Electronics and Communication**, Reva University (GPA: 3.65/4.0)  
-🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-sr/) | [Publication](https://doi.org/10.1109/ICCCMLA56841.2022.9989127) | [Personal Website](https://ds28-ops.github.io/)
-
+🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-sr/) | [Publication](https://doi.org/10.1109/ICCCMLA56841.2022.9989127) 
 ## 👨‍💻 Software Engineer | ML Research Scientist | LLM Specialist
 
 Machine Learning researcher and engineer specializing in **Large Language Model optimization**, **production ML systems**, and **scalable AI infrastructure**. Passionate about building enterprise-grade AI solutions that bridge cutting-edge research with real-world deployment.
