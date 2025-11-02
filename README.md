@@ -1,6 +1,6 @@
 # 💫 About Me:
 **Dhruv Sridhar**  
-📍 Lakeville, Minnesota | 📧 ds7395@nyu.edu | 📱 (240) 659-9951  
+📍 New York, New York | 📧 ds7395@nyu.edu | 📱 (240) 659-9951  
 🎓 **MS in Computer Engineering**, NYU Tandon (GPA: 3.8/4.0) | **BTech in Electronics and Communication**, Reva University (GPA: 3.65/4.0)  
 🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-sr/) | [Publication](https://doi.org/10.1109/ICCCMLA56841.2022.9989127) | [Personal Website](https://ds28-ops.github.io/)
 
@@ -52,8 +52,6 @@ Machine Learning researcher and engineer specializing in **Large Language Model 
 - Complete Data Science Bootcamp
 - Statistics for Data Science
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ds28-ops&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect!
 I'm always interested in collaborating on:
